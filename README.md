@@ -1,0 +1,1 @@
+# qashop-cypress
