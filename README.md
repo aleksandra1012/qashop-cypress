@@ -1,4 +1,5 @@
 # qashop-cypress
+Test files are located in https://github.com/aleksandra1012/qashop-cypress/tree/main/cypress/integration/ola-tests
 
 ## How to
 
